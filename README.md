@@ -44,17 +44,17 @@ To make Senbei work on specific elements, you should set the required attributio
 
 *Examples*
 
-```
+```html
 <input type="text" class="senbei" name="example-input-general" value="">
 ```
 
-```
+```html
 <input type="radio" class="senbei" name="example-input-radio" value="1" checked>
 <input type="radio" class="senbei" name="example-input-radio" value="2">
 <input type="radio" class="senbei" name="example-input-radio" value="3">
 ```
 
-```
+```html
 <select class="senbei" name="example-select">
 	<options value="1">1</options>
 	<options value="2">2</options>
